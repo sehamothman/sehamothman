@@ -5,8 +5,7 @@
 
 🔍 **Interested in:** Data Privacy & CyberSecurity
 
-💻 **Currently working on:**  
-**Federated Learning with Blockchain for Distributed Hospitals**  
+💻 **Currently working on :**  **Federated Learning with Blockchain for Distributed Hospitals**  
 A project focused on privacy-preserving and decentralized machine learning for healthcare systems.
 
 
