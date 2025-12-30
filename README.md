@@ -3,8 +3,7 @@
 
 🎓 **Senior Computer Engineering Student** at Mugla Sitki Kocman University  
 
-🔍 **Interested in:**
-- Data Privacy & CyberSecurity
+🔍 **Interested in:** Data Privacy & CyberSecurity
 
 💻 **Currently working on:**  
 **Federated Learning with Blockchain for Distributed Hospitals**  
