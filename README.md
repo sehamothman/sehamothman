@@ -4,7 +4,7 @@
 
 🔍 **Interested in:** Data Privacy & security of AI.
 
-💻 **Currently working on :**  **Federated Learning with Blockchain for Distributed Hospitals**  
-A project focused on privacy-preserving and decentralized machine learning for healthcare systems.
-
+💻 **Currently working on :**  
+**EcoGuardians** — An educational nature exploration platform 
+NYEdTech Hackathon Project
 
