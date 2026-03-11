@@ -5,5 +5,5 @@
 🔍 **Interested in:** Data Privacy & security of AI.
 
 💻 **Currently working on :**  
-**EcoGuardians** — An educational nature exploration platform, as part of the NYEdTech Hackathon.
+Federated Learning with Blockchain for Distributed Hospitals
 
