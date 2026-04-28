@@ -5,5 +5,5 @@
 🔍 **Interested in:** Data Privacy & security of AI.
 
 💻 **Currently working on :**  
-Federated Learning with Blockchain for Distributed Hospitals
+  MedXChAln
 
